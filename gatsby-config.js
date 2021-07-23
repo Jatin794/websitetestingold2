@@ -49,6 +49,9 @@ module.exports = {
         `gatsby-plugin-preact`,
         `gatsby-plugin-netlify`,
         {
+            resolve: `gatsby-theme-ghost-members`,
+        },
+        {
             resolve: `gatsby-source-filesystem`,
             options: {
                 path: path.join(__dirname, `src`, `images`),
@@ -99,7 +102,7 @@ module.exports = {
         },
         {
             resolve: `gatsby-plugin-gatsby-cloud`,
-        },        
+        },
         // this (optional) plugin enables Progressive Web App + Offline functionality
         // This plugin is currently causing issues: https://github.com/gatsbyjs/gatsby/issues/25360
         //`gatsby-plugin-offline`,
