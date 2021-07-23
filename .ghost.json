@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "http://localhost:3001",
-    "contentApiKey": "b3f271cc09afeafb14dfdf184b"
+    "apiUrl": "https://z2b09d6a5-gtw.qovery.io",
+    "contentApiKey": "d82ea944a4f038b988c0372014"
   },
   "production": {
-    "apiUrl": "http://localhost:3001",
-    "contentApiKey": "b3f271cc09afeafb14dfdf184b"
+    "apiUrl": "https://z2b09d6a5-gtw.qovery.io",
+    "contentApiKey": "d82ea944a4f038b988c0372014"
   }
 }

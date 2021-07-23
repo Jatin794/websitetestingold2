@@ -1,6 +1,6 @@
 module.exports = {
     // Do not include a trailing slash!
-    siteUrl: `https://demo.jamify.org`,
+    siteUrl: `https://blog.jatinnagpal.com`,
 
     // Enable infinite scroll (default: true)
     infiniteScroll: true,
@@ -16,7 +16,7 @@ module.exports = {
     siteDescriptionMeta: `Turn your Ghost blog into a flaring fast static site with Gatsby`,
 
     // Used for App and Offline manifest e.g. Mobile Home Screen
-    shortTitle: `Jamify`,
+    shortTitle: `Jatin Nagpal`,
     siteIcon: `favicon.png`,
     backgroundColor: `#e9e9e9`,
     themeColor: `#15171A`,
